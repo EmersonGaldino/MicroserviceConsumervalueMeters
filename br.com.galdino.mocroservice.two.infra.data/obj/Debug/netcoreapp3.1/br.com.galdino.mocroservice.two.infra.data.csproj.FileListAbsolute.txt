@@ -1,0 +1,9 @@
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.mocroservice.two\br.com.galdino.mocroservice.two.infra.data\bin\Debug\netcoreapp3.1\br.com.galdino.mocroservice.two.infra.data.deps.json
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.mocroservice.two\br.com.galdino.mocroservice.two.infra.data\bin\Debug\netcoreapp3.1\br.com.galdino.mocroservice.two.infra.data.dll
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.mocroservice.two\br.com.galdino.mocroservice.two.infra.data\bin\Debug\netcoreapp3.1\br.com.galdino.mocroservice.two.infra.data.pdb
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.mocroservice.two\br.com.galdino.mocroservice.two.infra.data\obj\Debug\netcoreapp3.1\br.com.galdino.mocroservice.two.infra.data.csprojAssemblyReference.cache
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.mocroservice.two\br.com.galdino.mocroservice.two.infra.data\obj\Debug\netcoreapp3.1\br.com.galdino.mocroservice.two.infra.data.AssemblyInfoInputs.cache
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.mocroservice.two\br.com.galdino.mocroservice.two.infra.data\obj\Debug\netcoreapp3.1\br.com.galdino.mocroservice.two.infra.data.AssemblyInfo.cs
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.mocroservice.two\br.com.galdino.mocroservice.two.infra.data\obj\Debug\netcoreapp3.1\br.com.galdino.mocroservice.two.infra.data.csproj.CoreCompileInputs.cache
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.mocroservice.two\br.com.galdino.mocroservice.two.infra.data\obj\Debug\netcoreapp3.1\br.com.galdino.mocroservice.two.infra.data.dll
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.mocroservice.two\br.com.galdino.mocroservice.two.infra.data\obj\Debug\netcoreapp3.1\br.com.galdino.mocroservice.two.infra.data.pdb

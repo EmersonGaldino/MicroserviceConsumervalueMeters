@@ -1,0 +1,12 @@
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.mocroservice.two\br.com.galdino.mocroservice.two.utils\bin\Debug\netcoreapp3.1\br.com.galdino.mocroservice.two.domain.crosscouting.dll
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.mocroservice.two\br.com.galdino.mocroservice.two.utils\obj\Debug\netcoreapp3.1\br.com.galdino.mocroservice.two.utils.csprojAssemblyReference.cache
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.mocroservice.two\br.com.galdino.mocroservice.two.utils\obj\Debug\netcoreapp3.1\br.com.galdino.mocroservice.two.utils.AssemblyInfoInputs.cache
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.mocroservice.two\br.com.galdino.mocroservice.two.utils\obj\Debug\netcoreapp3.1\br.com.galdino.mocroservice.two.utils.AssemblyInfo.cs
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.mocroservice.two\br.com.galdino.mocroservice.two.utils\bin\Debug\netcoreapp3.1\br.com.galdino.mocroservice.two.utils.deps.json
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.mocroservice.two\br.com.galdino.mocroservice.two.utils\bin\Debug\netcoreapp3.1\br.com.galdino.mocroservice.two.utils.dll
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.mocroservice.two\br.com.galdino.mocroservice.two.utils\bin\Debug\netcoreapp3.1\br.com.galdino.mocroservice.two.utils.pdb
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.mocroservice.two\br.com.galdino.mocroservice.two.utils\bin\Debug\netcoreapp3.1\br.com.galdino.mocroservice.two.domain.crosscouting.pdb
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.mocroservice.two\br.com.galdino.mocroservice.two.utils\obj\Debug\netcoreapp3.1\br.com.galdino.mocroservice.two.utils.csproj.CoreCompileInputs.cache
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.mocroservice.two\br.com.galdino.mocroservice.two.utils\obj\Debug\netcoreapp3.1\br.com.galdino.mocroservice.two.utils.csproj.CopyComplete
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.mocroservice.two\br.com.galdino.mocroservice.two.utils\obj\Debug\netcoreapp3.1\br.com.galdino.mocroservice.two.utils.dll
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.mocroservice.two\br.com.galdino.mocroservice.two.utils\obj\Debug\netcoreapp3.1\br.com.galdino.mocroservice.two.utils.pdb

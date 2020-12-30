@@ -1,0 +1,14 @@
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.mocroservice.two\br.com.galdino.mocroservice.two.domain.core\bin\Debug\netcoreapp3.1\br.com.galdino.mocroservice.two.domain.core.deps.json
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.mocroservice.two\br.com.galdino.mocroservice.two.domain.core\bin\Debug\netcoreapp3.1\br.com.galdino.mocroservice.two.domain.core.dll
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.mocroservice.two\br.com.galdino.mocroservice.two.domain.core\bin\Debug\netcoreapp3.1\br.com.galdino.mocroservice.two.domain.core.pdb
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.mocroservice.two\br.com.galdino.mocroservice.two.domain.core\obj\Debug\netcoreapp3.1\br.com.galdino.mocroservice.two.domain.core.csprojAssemblyReference.cache
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.mocroservice.two\br.com.galdino.mocroservice.two.domain.core\obj\Debug\netcoreapp3.1\br.com.galdino.mocroservice.two.domain.core.AssemblyInfoInputs.cache
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.mocroservice.two\br.com.galdino.mocroservice.two.domain.core\obj\Debug\netcoreapp3.1\br.com.galdino.mocroservice.two.domain.core.AssemblyInfo.cs
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.mocroservice.two\br.com.galdino.mocroservice.two.domain.core\obj\Debug\netcoreapp3.1\br.com.galdino.mocroservice.two.domain.core.csproj.CoreCompileInputs.cache
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.mocroservice.two\br.com.galdino.mocroservice.two.domain.core\obj\Debug\netcoreapp3.1\br.com.galdino.mocroservice.two.domain.core.dll
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.mocroservice.two\br.com.galdino.mocroservice.two.domain.core\obj\Debug\netcoreapp3.1\br.com.galdino.mocroservice.two.domain.core.pdb
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.mocroservice.two\br.com.galdino.mocroservice.two.domain.core\bin\Debug\netcoreapp3.1\br.com.galdino.mocroservice.two.domain.crosscouting.dll
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.mocroservice.two\br.com.galdino.mocroservice.two.domain.core\bin\Debug\netcoreapp3.1\br.com.galdino.mocroservice.two.utils.dll
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.mocroservice.two\br.com.galdino.mocroservice.two.domain.core\bin\Debug\netcoreapp3.1\br.com.galdino.mocroservice.two.utils.pdb
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.mocroservice.two\br.com.galdino.mocroservice.two.domain.core\bin\Debug\netcoreapp3.1\br.com.galdino.mocroservice.two.domain.crosscouting.pdb
+D:\Projetos\Particular\Estudos\microserviceTest\br.com.galdino.mocroservice.two\br.com.galdino.mocroservice.two.domain.core\obj\Debug\netcoreapp3.1\br.com.galdino.mocroservice.two.domain.core.csproj.CopyComplete

@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.1" NoWarn="NU1605" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.OpenIdConnect" Version="5.0.1" NoWarn="NU1605" />
+    <PackageReference Include="Microsoft.AspNetCore.HttpsPolicy" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Http.Polly" Version="5.0.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Annotations" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\br.com.galdino.mocroservice.two.application\br.com.galdino.mocroservice.two.application.csproj" />
+    <ProjectReference Include="..\br.com.galdino.mocroservice.two.domain.core\br.com.galdino.mocroservice.two.domain.core.csproj" />
+    <ProjectReference Include="..\br.com.galdino.mocroservice.two.infra.data\br.com.galdino.mocroservice.two.infra.data.csproj" />
+    <ProjectReference Include="..\br.com.galdino.mocroservice.two.utils\br.com.galdino.mocroservice.two.utils.csproj" />
+  </ItemGroup>
+
+</Project>

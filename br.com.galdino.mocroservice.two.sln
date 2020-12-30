@@ -1,0 +1,99 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "br.com.galdino.mocroservice.two.api", "br.com.galdino.mocroservice.two\br.com.galdino.mocroservice.two.api.csproj", "{CC570CD1-B444-4F33-9DEF-A4C8130101EE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Presentation", "01 - Presentation", "{A8DD7EB8-3EA7-4D1F-8899-BA21E0533C16}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Application", "02 - Application", "{19CEBD76-CB01-4487-832C-78E344E38509}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 - Domain", "03 - Domain", "{E4E5ABF5-0CC8-4830-9DC4-6824A35F6E73}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 - Infra", "04 - Infra", "{DAF56A18-4944-4793-817F-7D83D0B57DE2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05 - Utils", "05 - Utils", "{14EE6843-BD41-4DD2-8DE4-1E59D1CE2DBC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "06 - Tests", "06 - Tests", "{44C66EE1-0E0B-4B76-ABBD-98D4909534D7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "07 - Docker", "07 - Docker", "{03A1E4D8-4B43-4AFC-B8E8-90ACA5423B50}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.1 - API", "1.1 - API", "{2DFE52BD-EC32-4979-A148-47C0801CF8B2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.1 - Core", "3.1 - Core", "{49498375-255D-42B2-B52A-9EBA68F13289}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.2 - CrossCouting", "3.2 - CrossCouting", "{CDAA7AD9-821F-4754-BEC0-0C973FC7778A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.1 - Data", "4.1 - Data", "{7F6EF4CE-D1ED-4387-81F0-70524404CED8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.2 - Job", "4.2 - Job", "{B38B2A47-0A0A-49D1-86A0-16A2FB7E5B3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "br.com.galdino.mocroservice.two.application", "br.com.galdino.mocroservice.two.application\br.com.galdino.mocroservice.two.application.csproj", "{BCCBDBC4-E934-49DA-9895-B1EC80C674D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "br.com.galdino.mocroservice.two.domain.core", "br.com.galdino.mocroservice.two.domain.core\br.com.galdino.mocroservice.two.domain.core.csproj", "{220D9E9A-C829-4BDC-9B20-39A9D6093A25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "br.com.galdino.mocroservice.two.domain.crosscouting", "br.com.galdino.mocroservice.two.domain.crosscouting\br.com.galdino.mocroservice.two.domain.crosscouting.csproj", "{4B0AB928-9B5B-4C68-8D78-F21DE94E0D5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "br.com.galdino.mocroservice.two.infra.data", "br.com.galdino.mocroservice.two.infra.data\br.com.galdino.mocroservice.two.infra.data.csproj", "{437CA7CA-706E-4878-B831-720E275BC2A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "br.com.galdino.mocroservice.two.utils", "br.com.galdino.mocroservice.two.utils\br.com.galdino.mocroservice.two.utils.csproj", "{3F01D9C9-9629-46C2-A2AC-A5D1A619BE83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "br.com.galdino.mocroservice.two.test", "br.com.galdino.mocroservice.two.test\br.com.galdino.mocroservice.two.test.csproj", "{23D9D747-7C72-4E57-AC41-BA2D53F9B6E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC570CD1-B444-4F33-9DEF-A4C8130101EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC570CD1-B444-4F33-9DEF-A4C8130101EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC570CD1-B444-4F33-9DEF-A4C8130101EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC570CD1-B444-4F33-9DEF-A4C8130101EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCCBDBC4-E934-49DA-9895-B1EC80C674D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCCBDBC4-E934-49DA-9895-B1EC80C674D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCCBDBC4-E934-49DA-9895-B1EC80C674D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCCBDBC4-E934-49DA-9895-B1EC80C674D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{220D9E9A-C829-4BDC-9B20-39A9D6093A25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{220D9E9A-C829-4BDC-9B20-39A9D6093A25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{220D9E9A-C829-4BDC-9B20-39A9D6093A25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{220D9E9A-C829-4BDC-9B20-39A9D6093A25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B0AB928-9B5B-4C68-8D78-F21DE94E0D5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B0AB928-9B5B-4C68-8D78-F21DE94E0D5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B0AB928-9B5B-4C68-8D78-F21DE94E0D5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B0AB928-9B5B-4C68-8D78-F21DE94E0D5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{437CA7CA-706E-4878-B831-720E275BC2A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{437CA7CA-706E-4878-B831-720E275BC2A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{437CA7CA-706E-4878-B831-720E275BC2A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{437CA7CA-706E-4878-B831-720E275BC2A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F01D9C9-9629-46C2-A2AC-A5D1A619BE83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F01D9C9-9629-46C2-A2AC-A5D1A619BE83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F01D9C9-9629-46C2-A2AC-A5D1A619BE83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F01D9C9-9629-46C2-A2AC-A5D1A619BE83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23D9D747-7C72-4E57-AC41-BA2D53F9B6E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23D9D747-7C72-4E57-AC41-BA2D53F9B6E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23D9D747-7C72-4E57-AC41-BA2D53F9B6E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23D9D747-7C72-4E57-AC41-BA2D53F9B6E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CC570CD1-B444-4F33-9DEF-A4C8130101EE} = {2DFE52BD-EC32-4979-A148-47C0801CF8B2}
+		{2DFE52BD-EC32-4979-A148-47C0801CF8B2} = {A8DD7EB8-3EA7-4D1F-8899-BA21E0533C16}
+		{49498375-255D-42B2-B52A-9EBA68F13289} = {E4E5ABF5-0CC8-4830-9DC4-6824A35F6E73}
+		{CDAA7AD9-821F-4754-BEC0-0C973FC7778A} = {E4E5ABF5-0CC8-4830-9DC4-6824A35F6E73}
+		{7F6EF4CE-D1ED-4387-81F0-70524404CED8} = {DAF56A18-4944-4793-817F-7D83D0B57DE2}
+		{B38B2A47-0A0A-49D1-86A0-16A2FB7E5B3D} = {DAF56A18-4944-4793-817F-7D83D0B57DE2}
+		{BCCBDBC4-E934-49DA-9895-B1EC80C674D4} = {19CEBD76-CB01-4487-832C-78E344E38509}
+		{220D9E9A-C829-4BDC-9B20-39A9D6093A25} = {49498375-255D-42B2-B52A-9EBA68F13289}
+		{4B0AB928-9B5B-4C68-8D78-F21DE94E0D5B} = {CDAA7AD9-821F-4754-BEC0-0C973FC7778A}
+		{437CA7CA-706E-4878-B831-720E275BC2A5} = {7F6EF4CE-D1ED-4387-81F0-70524404CED8}
+		{3F01D9C9-9629-46C2-A2AC-A5D1A619BE83} = {14EE6843-BD41-4DD2-8DE4-1E59D1CE2DBC}
+		{23D9D747-7C72-4E57-AC41-BA2D53F9B6E9} = {44C66EE1-0E0B-4B76-ABBD-98D4909534D7}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88A652C2-FA35-47AB-AB70-BD288D531750}
+	EndGlobalSection
+EndGlobal
